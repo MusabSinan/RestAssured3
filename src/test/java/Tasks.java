@@ -1,4 +1,3 @@
-import POJO.Location;
 import POJO.ToDo;
 import io.restassured.http.ContentType;
 import org.testng.annotations.Test;
